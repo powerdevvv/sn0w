@@ -1,4 +1,11 @@
 [
+    {
+    "Name": "sn0wfa11 [NOT DONE]",
+    "Game": "csgo",
+    "DownloadUrl": "",
+    "FileName": "sf.zip",
+    "ExePath": "loader.exe"
+  },
   {
     "Name": "ev0lve",
     "Game": "csgo",
@@ -6,6 +13,28 @@
     "FileName": "ev0.zip",
     "ExePath": "loader.exe"
   },
+        {
+    "Name": "supremacy [NOT DONE]",
+    "Game": "csgo",
+    "DownloadUrl": "",
+    "FileName": "sm.zip",
+    "ExePath": "loader.exe"
+  },
+      {
+    "Name": "legendware [NOT DONE]",
+    "Game": "csgo",
+    "DownloadUrl": "",
+    "FileName": "lw.zip",
+    "ExePath": "loader.exe"
+  },
+    {
+    "Name": "fatality [NOT DONE]",
+    "Game": "csgo",
+    "DownloadUrl": "",
+    "FileName": "ft.zip",
+    "ExePath": "loader.exe"
+  },
+  
   {
     "Name": "gamesense",
     "Game": "csgo",
