@@ -16,7 +16,7 @@
   {
     "Name": "onetap",
     "Game": "csgo",
-    "DownloadUrl": "later.",
+    "DownloadUrl": "https://github.com/powerdevvv/sn0w/raw/refs/heads/main/ot.zip",
     "FileName": "ot.zip",
     "ExePath": "loader.exe"
   }
