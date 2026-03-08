@@ -9,7 +9,7 @@
     {
     "Name": "gamesense",
     "Game": "csgo",
-    "DownloadUrl": "later.",
+    "DownloadUrl": "https://github.com/powerdevvv/sn0w/raw/refs/heads/main/gs.zip",
     "FileName": "gs.zip",
     "ExePath": "loader.exe"
   },
